@@ -1,4 +1,5 @@
 # Java-NetBeans-Calculator
+*My first major individual Java project as a sophomore.*
 A basic calculator built with Java Swing in NetBeans. This was my first major individual Java project as a sophomore.
 
 ## Features
